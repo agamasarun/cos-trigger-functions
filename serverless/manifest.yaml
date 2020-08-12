@@ -25,7 +25,7 @@
 #   VERSION (watson visual recognition version)
 
 export PACKAGE_NAME='Agamas'
-export RULE_NAME=''
+
 export TRIGGER_NAME='ag_trigger'
 
 export BUCKET_NAME='agbucket1-processed'
