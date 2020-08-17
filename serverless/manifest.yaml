@@ -32,7 +32,7 @@ export BUCKET_NAME='agbucket1-processed'
 export ENDPOINT='s3.fra.eu.cloud-object-storage.appdomain.cloud'
 
 export API_KEY='0ETMMb5um3vYzaQ_f1josoe1J_FLNiUlOs0vkJD0yFT0'
-export VERSION='2018-03-19'
+export VERSION=2018-03-19
 
 project:
   namespace: _
